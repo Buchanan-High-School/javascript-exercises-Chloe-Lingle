@@ -1,6 +1,9 @@
 // Write your Task 1 code inside this function!
 function task1() {
   console.log("Running task 1");
+  let div = document.querySelector
+  console.log(div)
+  Target.intertext = "something new"
 }
 
 // Write your task 2 code inside this function!
